@@ -27,6 +27,7 @@ Tools: VS code, Git, GitHub
 
 
 Personal Projects (more projects on GitHub)
+
 FIFA World Cup Website
 ●	Created a Full-stack responsive website using React and Materials UI with multiple pages including fixtures, groups, and teams. Each individual page contains data obtained from FIFA API's which allows users to view all the matches that had been played, goals scored, and lineups during matches. As well as, all participating teams, team players, knockout stage bracket, and group stage tables.
 ●	Enhanced my knowledge on how to fetch data from API's and how to implement API data to create dynamic web pages. Required critical thinking and problem-solving skill set to obtain selective data and display it in a presentable manner.
