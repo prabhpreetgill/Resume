@@ -43,6 +43,7 @@ Keeper Website
 
 
 Work Experience
+
 White Hawk Immigration, Caledon, Ontario
 CEO (June 2021- Present)
 ●	Assisted clients with immigration application completion to meet requirements and deadline of case review and disposition
