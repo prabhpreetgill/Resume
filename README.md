@@ -45,7 +45,9 @@ Keeper Website
 Work Experience
 
 White Hawk Immigration, Caledon, Ontario
+
 CEO (June 2021- Present)
+
 ●	Assisted clients with immigration application completion to meet requirements and deadline of case review and disposition
 ●	Provided immigration advising and support of various applicants and cases
 ●	Managed heavy caseloads and with prioritization and efficient time-management
@@ -53,7 +55,9 @@ CEO (June 2021- Present)
 ●	Applied bilingual skillset in Punjabi and Hindi for clients
 
 The Home Depot, Brampton, Ontario
+
 Tool Rental Associate (September 2019- March 2020), 
+
 •	Supplied information about rental items to inform customers of tool availability 
 •	Provided customer service support on merchandise availability
 •	Examined, received, and tagged tools to be cleaned, stored, and repaired
